@@ -1,0 +1,118 @@
+#header{
+    padding: 15px 0;
+    border-bottom: 1px solid #ca3d26;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-bottom: 1px solid white;
+    
+
+}
+.contact-info span{
+margin-right: 10px;
+}
+.book button{
+    background: #ca3d26 ;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 14px 30px;
+    border: none;
+}
+.social-icon i{
+    padding: 0 4px;
+}
+#welcome{
+    background: url(http://quomodosoft.com/html/dawat/demo/img/slider/slide_3.jpg);
+background-position: center;
+background-size: cover;
+background-repeat:no-repeat ;
+padding: 200px;
+
+}
+#welcome .qelxan {
+    padding-top: 10em;
+    text-align: center;
+}
+
+#welcome .qelxan button{
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 18px 32px;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+/* -------------------------- */
+/* sention two start css */
+#sectiontwo{
+    background: url(http://quomodosoft.com/html/dawat/demo/img/about/home_three_about_bg.png)
+    no-repeat  center bottom/contain;
+    position: relative;
+    margin-top :80px;
+    height: 500px;
+}
+#sectiontwo  .our{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    color: #ca3d26;
+    padding-top: 30px;
+    position: relative;
+}
+.libero .col-md-6 p{
+    /* font-family: "Lato", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+  
+    line-height: 1.7em;
+    padding-top: 2.5em;
+    color: grey; */
+    color: #555555;
+    font-family: "Lato", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    line-height: 1.7em;
+    padding-top: 2.5em
+}
+.libero span{
+    font-family: "Lato", sans-serif;
+    float: left;
+    font-size: 80px;
+    font-weight: 700;
+    margin-bottom: -4px;
+    margin-right: 5px;
+    line-height: 1;
+
+}
+.story-footer div{
+    margin: auto;
+
+}
+/* ------------- */
+.special-top{
+   
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3em;
+    color: #CA3D26;
+     margin: 50px;
+    position: relative;
+    padding-top: 30px 0;
+}.special-top h1{
+    position: relative;
+}
+.special-top::after{
+    content:'';
+    background: url(http://quomodosoft.com/html/dawat/demo/img/icons/red.png)
+    no-repeat center center;
+    bottom: -25;
+    height: 30px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    margin: auto;
+}
